@@ -6,13 +6,13 @@
 ## Usage
 This unit is meant to be working with RAD Studio 10.4. It won't work in older versions due to bug in Macapi.Foundation.</p>
 
-### SceduleNotification
-Simplified notification sceduling. Fires notification after at a sceduled time;
+### ScheduleNotification
+Simplified notification scheduling. Fires notification after at a sceduled time;
 
 ```Pascal
-procedure SceduleNotification(const ATitle, ASubtitile, AInformation: String; 
-                              const ADeliveryDate: TDateTime; 
-                              const UseTimeZone: boolean = True);
+procedure ScheduleNotification(const ATitle, ASubtitile, AInformation: String; 
+                               const ADeliveryDate: TDateTime; 
+                               const UseTimeZone: boolean = True);
 ```
 
 - **ATitle** - Notification title (Application name will be used, if empty)
