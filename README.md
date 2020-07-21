@@ -50,3 +50,6 @@ begin
   PresentNotification('Notification Title', 'Foo Bar', 'Very Informative. Such Notification!');
 end;
 ```
+
+## Roadmap
+[ ] Notification click handler
