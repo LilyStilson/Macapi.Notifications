@@ -52,4 +52,4 @@ end;
 ```
 
 ## Roadmap
-[ ] Notification click handler
+- [ ] Notification click handler
