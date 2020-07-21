@@ -1,6 +1,6 @@
 <h1 align="center">Macapi.Notifications</h1>
 <p align="center">Simplified macOS notification bridge for Delphi #DelphiCocoaFlavored</p>
-<p align="center"><b>Lily Stilson // 2019 - 2020</b></p>
+<p align="center"><b>Lily Stilson // 2020</b></p>
 <hr>
 
 ## Usage
