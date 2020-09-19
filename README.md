@@ -4,7 +4,8 @@
 <hr>
 
 ## Usage
-This unit is meant to be working with RAD Studio 10.4. It won't work in older versions due to bug in Macapi.Foundation.</p>
+This unit is meant to be working with RAD Studio 10.4. It won't work in older versions due to bug in Macapi.Foundation. 
+If your app was not signed with Apple Developer Certificate, then starting from macOS 10.15 this unit will work, but won't call any notifications due to limitations in OS.</p>
 
 ### ScheduleNotification
 Simplified notification scheduling. Fires notification after at a sceduled time;
